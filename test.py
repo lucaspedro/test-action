@@ -1,1 +1,1 @@
-print("test auto-tag")
+print("test auto-tag new version")
